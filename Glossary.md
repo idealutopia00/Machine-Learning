@@ -1,8 +1,8 @@
 
 Letter A
 
-activation 激活值 
-activation function 激活函数 
+activation 激活值  
+activation function 激活函数  
 additive noise 加性噪声 
 autoencoder 自编码器 
 Autoencoders 自编码算法 

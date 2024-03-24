@@ -1,4 +1,7 @@
 # -*- coding: UTF-8 -*-
+import os
+os.environ["PATH"] += os.pathsep + 'D:/Compiler_software/Graphviz-10.0.1-win64/bin/'  
+#后面的地址为自己安装graphviz的bin文件的地址
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from sklearn.externals.six import StringIO
 from sklearn import tree
